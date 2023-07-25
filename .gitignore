@@ -5,11 +5,6 @@
 /.pnp
 .pnp.js
 
-# asset
-/public/Kaos Putih Polos
-/public/Kemeja Garis
-/public/Sweater
-
 # testing
 /coverage
 
